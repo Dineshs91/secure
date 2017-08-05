@@ -1,5 +1,5 @@
 # secure
-Security coding practices
+Secure coding practices
 
 ## User Management
 - [ ] Any user should be able to view only their resources. 

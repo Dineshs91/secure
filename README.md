@@ -11,4 +11,4 @@ Secure coding practices
 - [ ] API rate limiting.
 
 ## Spam
-- [ ] Verify mobile number as well. 
+- [ ] Verify mobile number as well. For more security, mobile number can be made unique to an user.

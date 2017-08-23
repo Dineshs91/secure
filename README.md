@@ -9,3 +9,6 @@ Secure coding practices
 
 ## API's
 - [ ] API rate limiting.
+
+## Spam
+- [ ] Verify mobile number as well. 

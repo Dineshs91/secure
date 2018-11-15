@@ -8,6 +8,7 @@ Secure coding practices
 - [ ] Once a password reset code has been used, it has to be invalidated/deleted. The same code shouldn't work.
 - [ ] After password change, invalidate the existing access tokens and prompt the user to login again.
 - [ ] Any invites should also expire after some time.
+- [ ] JWT access token should have a short life, whereas refresh token have a longer expiry time.
 
 ## API's
 - [ ] API rate limiting.
